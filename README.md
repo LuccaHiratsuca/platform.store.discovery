@@ -1,1 +1,1 @@
-# platform.241.store.discovery
+# platform.tech-emporium.discovery
