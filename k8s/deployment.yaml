@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: discovery
-          image: humbertosandmann/discovery:latest
+          image: luccahiratsuca/discovery:latest
           ports:
             - containerPort: 8761
